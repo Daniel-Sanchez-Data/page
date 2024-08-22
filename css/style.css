@@ -1289,5 +1289,17 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
+.toggle-button {
+        margin-top: 10px;
+        padding: 5px 10px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+    }
+    .toggle-button:hover {
+        background-color: #0056b3;
+    }
 
 /*# sourceMappingURL=style.css.map */
